@@ -13,3 +13,10 @@ class APIS:
         url=f'{self.BASE_URL}/{endpoint}'
         response=requests.get(url,headers=self.header)
         return response
+
+
+
+    def post(self,endpoint,data):
+        url=f'{self.BASE_URL}/{endpoint}'
+        response=requests.post(url,headers=self.header,json=data)
+        return response
