@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pytestframework.iml" filepath="$PROJECT_DIR$/.idea/pytestframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ApiAutomationFramework.iml" filepath="$PROJECT_DIR$/.idea/ApiAutomationFramework.iml" />
     </modules>
   </component>
 </project>
